@@ -1,2 +1,1 @@
-# ex
-index.php
+/* Web Designer: HTH */
